@@ -1,0 +1,26 @@
+body {
+	background-image: url("2.jpg") ;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 10px;
+    background-position: left;
+}
+
+ul li {
+margin-left: 75px;
+   list-style-type: none;
+   display: inline-block;
+   float: left;
+   line-height: 100px;
+   margin-top: -65px; 
+}
+
+ul li a {
+   text-decoration: none;
+   margin: 0px;
+   padding: 14px 20px;
+   color: black;
+   background-color: blue;
+   border-radius: 90px;
+   }
